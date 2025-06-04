@@ -149,13 +149,13 @@ footer {
         border-radius: 40px;
         text-align: center;
         font-size:1.3rem;
-        background-image: linear-gradient(orange, #1f2937);
+        background-image: linear-gradient(rgb(0, 26, 255), #1f2937);
     }
     header nav ul li a{
         display: flex;
         justify-content: center;
         align-items: center;
-        color: #000;
+        color: #ffffff;
 
     }
     header nav ul li a:hover{
